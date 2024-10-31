@@ -1,6 +1,6 @@
 package com.servelt.librarysystem_servlet.Interface;
 
-import com.servelt.librarysystem_servlet.POJO.User;
+import com.servelt.librarysystem_servlet.Pojo.User;
 
 public interface LoginService {
     // 用户注册

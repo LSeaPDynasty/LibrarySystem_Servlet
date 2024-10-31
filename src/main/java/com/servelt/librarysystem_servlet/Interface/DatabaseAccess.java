@@ -1,7 +1,7 @@
 package com.servelt.librarysystem_servlet.Interface;
 
-import com.servelt.librarysystem_servlet.POJO.Book;
-import com.servelt.librarysystem_servlet.POJO.User;
+import com.servelt.librarysystem_servlet.Pojo.Book;
+import com.servelt.librarysystem_servlet.Pojo.User;
 
 import java.util.List;
 

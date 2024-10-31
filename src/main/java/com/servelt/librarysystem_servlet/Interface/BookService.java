@@ -1,6 +1,6 @@
 package com.servelt.librarysystem_servlet.Interface;
 
-import com.servelt.librarysystem_servlet.POJO.Book;
+import com.servelt.librarysystem_servlet.Pojo.Book;
 
 import java.util.List;
 
